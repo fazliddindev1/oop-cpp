@@ -21,9 +21,3 @@ Welcome to the **C++ Advanced OOP Examples** repository! This collection showcas
 6. **Design Patterns:** Implement common design patterns like Singleton, Observer, Factory, etc.
 7. **Exception Handling:** Advanced error handling techniques in C++.
 8. **Memory Management:** Smart pointers, custom memory management strategies.
-
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/cpp-advanced-oop-examples.git
